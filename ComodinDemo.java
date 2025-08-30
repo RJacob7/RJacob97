@@ -2,6 +2,7 @@ package Comodin;
 
 public class ComodinDemo {
     public static void main(String[] args){
+        System.out.println("Pruebas de cambio");
         FunsNumeric<Integer> iOb =
                 new FunsNumeric<>(6);
 
